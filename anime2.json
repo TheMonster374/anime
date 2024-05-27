@@ -21,6 +21,8 @@
     "info": "Alastor es un demonio poderoso y carismático conocido como 'El Radio Demonio'. Es un ser misterioso que aparece en el infierno y rápidamente se hace un nombre como uno de los demonios más temidos y respetados. Alastor tiene una personalidad encantadora y manipuladora, con una inclinación por el caos y la destrucción, pero siempre manteniendo una sonrisa siniestra y un aire de cortesía. Es hábil en el uso de la magia y tiene una afinidad particular por las radios y las emisiones de radio. Aunque puede parecer encantador, Alastor es un ser peligroso y no se puede confiar en sus verdaderas intenciones.",
     "class": "Raro",
     "type": "Animación, Comedia, Sobrenatural, Demonios, Fantasía, Horror, Misterio",
+    "atq": 300,
+    "def": 600,
     "price": 700,
     "code": "<84NMj"
   },
