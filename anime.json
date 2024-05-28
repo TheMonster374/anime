@@ -239,6 +239,8 @@
     "info": "Ken Kaneki es el protagonista principal de la serie Tokyo Ghoul y Tokyo Ghoul:re. Anteriormente era un estudiante de literatura japonesa en la Universidad Kamii.",
     "class": "Legendario",
     "type": "Fantasía, Anime, Fantasía oscura, Suspenso",
+    "atq": 4999,
+    "def": 5005,
     "price": 2528,
     "code": "3Qrc4_"
   },
@@ -537,6 +539,8 @@
     "info": "Un clon humano creado por Innocent Zero. Su magia personal le permite crear y manipular carbono y, por extensión, diamantes.",
     "class": "Supremo",
     "type": "Manga, anime, acción, Musculos, fantasía, artes marciales, poder, Magia, Magia Oscura, villano, Fantasia Oscura",
+    "atq": 3999,
+    "def": 2005,
     "price": 159427,
     "code": "x24td2"
   },
