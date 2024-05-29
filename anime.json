@@ -106,6 +106,8 @@
     "desp": "Death Note",
     "info": "El jefe de la Unidad de Investigación Especial de la Policía Japonesa en 'Death Note'. Es un hombre recto, justo y dedicado a su trabajo como policía. A lo largo de la serie, Yagami lidera la investigación para capturar al misterioso asesino en serie conocido como 'Kira', sin saber que su propio hijo, Light Yagami, es en realidad Kira. Soichiro se esfuerza por cumplir su deber como policía y enfrenta dilemas éticos difíciles a medida que se desarrolla la trama.",
     "class": "Común",
+    "atq": 1000,
+    "def":  2000,
     "type": "Anime, Misterio, Psicológico, Sobrenatural, Thriller, Crimen, Drama, Policía",
     "price": 108,
     "code": "79UKU%"
@@ -483,6 +485,8 @@
     "desp": "Mashle: magic and muscles",
     "info": "Lemon es una tímida Maga de cabello rubio y corto que trata de entrar a la Academia de Magia para sacar a su familia de la pobreza. Ella se autoproclama como la futura esposa de Mash desde que este la protegiera durante los exámenes de acceso.",
     "class": "Común",
+    "atq":  1500,
+    "def":  2500,
     "type": "Manga, anime, acción, Musculos, fantasía, artes marciales, poder, Magia",
     "price": 209,
     "code": "qx#348"
