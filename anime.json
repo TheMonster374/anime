@@ -46,6 +46,8 @@
     "desp": "My Hero Academia",
     "info": "Izuku, también conocido como Deku, es un adolescente que vive en un mundo donde casi toda la población posee superpoderes llamados 'Quirks'. A pesar de nacer sin un Quirk, Izuku sueña con convertirse en un héroe como su ídolo, All Might. Su determinación y espíritu lo llevan a ser seleccionado por All Might para heredar su Quirk y convertirse en su sucesor. Izuku es inteligente, compasivo y tiene una fuerte ética de trabajo, lo que lo lleva a enfrentarse a numerosos desafíos para alcanzar su objetivo de convertirse en el héroe número uno.",
     "class": "Legendario",
+    "atq":  12000,
+    "def":  12200,
     "type": "Anime, Acción, Superhéroes, Drama, Fantasía",
     "price": 1746,
     "code": "3t3na^"
@@ -57,6 +59,8 @@
     "desp": "Naruto",
     "info": "Naruto Es Un Ninja Muy Poderoso. Para Llegar Al Nivel Que TeníA Al Final De Naruto Shippuden, Naruto Tuvo Que Entrenar Durante Mucho Tiempo, Fortaleciendo Sus Habilidades Y Superando Sus Debilidades.",
     "class": "Legendario",
+    "atq":  12300,
+    "def":  12300,
     "type": "Anime, Acción, Aventura, Fantasía, Ninjas, Amistad, Superpoderes",
     "price": 1675,
     "code": "bIQ^51"
@@ -159,6 +163,8 @@
     "desp": "Blue Lock",
     "info": "Yoichi Isagi es el protagonista principal de 'Blue Lock'. Es un talentoso delantero que juega al fútbol. A pesar de ser un jugador hábil, Isagi es pasivo y carece de confianza en sí mismo al principio de la serie. Sin embargo, su perspectiva cambia cuando es reclutado para participar en el proyecto 'Blue Lock', un programa de entrenamiento intensivo diseñado para crear al delantero definitivo. A medida que avanza en el programa, Isagi se enfrenta a desafíos tanto físicos como mentales mientras lucha por convertirse en un verdadero líder y alcanzar su máximo potencial como futbolista.",
     "class": "Legendario",
+    "atq":  12400,
+    "def":  12200,
     "type": "Manga, Deportes, Drama, Competición, Superación, Psicológico",
     "price": 1760,
     "code": "V9Ua0%"
@@ -231,6 +237,8 @@
     "desp": "Dragon Ball Super",
     "info": "Goku Black es una versión alternativa malvada de Goku que proviene de un universo alternativo. En este universo, Goku Black es en realidad Zamasu, un Kaio-shin (dios de la creación) que ha obtenido el cuerpo de Goku y ha tomado su apariencia. Utilizando las Bolas de Dragón, Zamasu intercambia cuerpos con Goku y luego procede a sembrar el caos y la destrucción en varios universos. Goku Black es extremadamente poderoso y muestra un dominio superior de las habilidades de Goku, además de poseer una mentalidad malévola y despiadada. Es conocido por su aspecto físico similar a Goku pero con una aura oscura y maligna.",
     "class": "Legendario",
+    "atq":  12500,
+    "def":  12400,
     "type": "Anime, Acción, Aventura, Ciencia Ficción, Fantasía, Artes Marciales, Universos Paralelos",
     "price": 2178,
     "code": "TA08*p"
@@ -267,8 +275,8 @@
     "info": "Ken Kaneki es el protagonista principal de la serie Tokyo Ghoul y Tokyo Ghoul:re. Anteriormente era un estudiante de literatura japonesa en la Universidad Kamii.",
     "class": "Legendario",
     "type": "Fantasía, Anime, Fantasía oscura, Suspenso",
-    "atq": 4999,
-    "def": 5005,
+    "atq":  12600,
+    "def":  12600,
     "price": 2528,
     "code": "3Qrc4_"
   },
@@ -292,6 +300,8 @@
     "desp": "Jujutsu Kaisen",
     "info": "Megumi Fushiguro es uno de los protagonistas de la serie manga Jujutsu Kaisen. Es un estudiante de primer año del Colegio Técnico de Magia Metropolitana de Tokio, y compañero de Yuji Itadori y Nobara Kugisaki.",
     "class": "Legendario",
+    "atq":  12700,
+    "def":  12800,
     "type": "Manga, anime, acción, sobrenatural, fantasía, artes marciales, poder",
     "price": 2019,
     "code": "^zZQ05"
@@ -351,6 +361,8 @@
     "desp": "Jujutsu Kaisen",
     "info": "Aoi Todo (東とう堂どう葵あ い, Todo Aoi ? ) es un personaje secundario de la serie Jujutsu Kaisen . Es un estudiante de tercer año en la escuela secundaria Kyoto Jujutsu y un hechicero de jujutsu de primer grado . Fue asesorado por Yuki Tsukumo en su juventud y considera a Yuji Itadori su mejor amigo.",
     "class": "Legendario",
+    "atq":  12900,
+    "def":  12800,
     "type": "Manga, anime, acción, sobrenatural, fantasía, artes marciales, poder",
     "price": 1697,
     "code": "vY_76P"
@@ -374,6 +386,8 @@
     "desp": "Naruto",
     "info": "Sasuke Uchiha (うちはサスケ, Uchiha Sasuke) es el deuteragonista de la serie y uno de los supervivientes del Clan Uchiha. Es hijo de Fugaku Uchiha y Mikoto Uchiha, hermano de Itachi Uchiha, así como la Reencarnación actual de Indra Ōtsutsuki.",
     "class": "Legendario",
+    "atq":  13000,
+    "def":  13000,
     "type": "Anime, manga, poder, acción, fantasía, ninjas, superpoderes",
     "price": 2294,
     "code": "!8d2dZ"
@@ -422,6 +436,8 @@
     "desp": "Naruto",
     "info": "Orochimaru (大蛇丸, Orochimaru) es un shinobi veterano de Konohagakure, miembro del Equipo Hiruzen y uno de los legendarios Sannin, junto con sus compañeros Jiraiya y Tsunade. Fue miembro de la organización Raíz bajo el liderazgo de Danzō y posteriormente desertó de la aldea por ser descubierto haciendo experimentos con los aldeanos, ademas de ser un ex miembro de Akatsuki.",
     "class": "Legendario",
+    "atq":  13100,
+    "def":  13200,
     "type": "Ninjas, superpoderes, manga, anime, acción, fantasía, artes marciales, poder, villano",
     "price": 1686,
     "code": "uA!z74"
@@ -553,6 +569,8 @@
     "desp": "Mashle: magic and muscles",
     "info": "El verdadero rival de Mash. Después de que su hermana contrajera una enfermedad que le quitaría la magia, prometió convertirse en un Iluminado Divino para que la ley del país no la matara. Su peculiaridad de carácter más notable es su complejo de hermana. Su magia personal le permite manipular la gravedad.",
     "class": "Legendario",
+    "atq":  13300,
+    "def":  13300,
     "type": "Manga, anime, acción, Musculos, fantasía, artes marciales, poder, Magia",
     "price": 9725,
     "code": "fa8#op"
@@ -564,6 +582,8 @@
     "desp": "Mashle: magic and muscles",
     "info": "Autoproclamado rival de Mash. Dot es una persona extremadamente apasionada y fácilmente irritable con un complejo de superioridad, actitud escandalosa y personalidad enamoradiza, pero en realidad es una persona de buen corazón. Su magia personal le permite generar explosiones y su marca de nacimiento es una línea zigzagueante horizontal que nace en su ojo izquierdo y acaba en la parte superior de su oreja izquierda. Suele mantener su frente cubierta con una bandana negra ya que durante sus combates se descubre que pertenece a una rara y poderosa tribu guerrera que posee la habilidad de manifestar a voluntad más líneas de nacimiento que les otorga acceso a un poder superior a los de los Doble línea y que en su caso se manifiesta en su frente como dos líneas extra que forman un cruz en su frente. Sumado a esto es un usuario del Ira Kreuz, una rareza mágica que le permite fluctuar su nivel de poder mágico en cuanto sus emociones se disparan, fortaleciéndolo enormemente.",
     "class": "Legendario",
+    "atq":  13400,
+    "def":  13400,
     "type": "Manga, anime, acción, Musculos, fantasía, artes marciales, poder, Magia",
     "price": 8227,
     "code": "er1-qp"
@@ -599,6 +619,8 @@
     "desp": "Mashle: magic and muscles",
     "info": "Margarette Macaron es una antagonista importante en el Arco del Examen de Selección Divina Visionaria . Son estudiantes de tercer año en Easton Magic Academy y el prefecto de Orca Dorm .",
     "class": "Legendario",
+    "atq":  13500,
+    "def":  13600,
     "type": "Manga, anime, acción, Musculos, fantasía, artes marciales, poder, Magia",
     "price": 8413,
     "code": "p14fd2"
@@ -683,6 +705,8 @@
     "desp": "One Punch Man",
     "info": "También conocida como Ventisca del Infierno (地獄 の フ ブ キ, Jigoku no Fubuki), es la heroína profesional de la Clase-B, rango 1 de la Asociación de Héroes, una esper, hermana menor de Tatsumaki y la líder del equipo Clase-B, el Grupo Ventisca. Ella y su hermana son conocidas como las Hermanas Psíquicas (エスパー姉妹, Esupā shimai). Fubuki es una de las pocas personas que realmente conoce el poder de Saitama, tratando de reclutarlo para su organización. También es parte del Grupo Saitama.",
     "class": "Legendario",
+    "atq":  13600,
+    "def":  13600,
     "type": "Manga, anime, acción, fantasía, artes marciales, poder",
     "price": 10876,
     "code": "3ipv8h"
