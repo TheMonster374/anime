@@ -19,6 +19,8 @@
       "info": "Es una joven extremadamente habilidosa en combate, criada junto a Eren Yeager después de que sus padres fueran asesinados cuando eran niños. Es leal y protectora con Eren, a quien ve como su familia. Mikasa es conocida por su frialdad en combate y su gran destreza como soldado. Su objetivo principal es proteger a Eren y luchar contra los titanes que amenazan la humanidad.",
       "price": 700,
       "class": "Raro",
+      "atq":  5400,
+      "def":  5500,
       "type": "Anime, Acción, Drama, Fantasía, Horror",
       "code": "U79Cn%"
     },
@@ -63,6 +65,8 @@
     "info": "Itachi Uchiha es un ninja de la Aldea Oculta de la Hoja y miembro del Clan Uchiha, conocido por su excepcional habilidad en el combate y su prodigioso talento como ninja. Aunque inicialmente se le presenta como un villano que asesinó a su propio clan, incluyendo a su familia, más tarde se revela que Itachi tenía razones complejas y justificadas para sus acciones, relacionadas con la protección de la aldea y su hermano menor, Sasuke. A pesar de ser un enigma para muchos, Itachi es un personaje profundamente complejo y atormentado por sus decisiones.",
     "class": "Raro",
     "type": "Fuego, Aventura, Fantasía",
+    "atq":  5000,
+    "def":  5200,
     "price": 678,
     "code": "sEE8<9"
   },
@@ -190,6 +194,8 @@
     "info": "Alastor es un demonio poderoso y carismático conocido como 'El Radio Demonio'. Es un ser misterioso que aparece en el infierno y rápidamente se hace un nombre como uno de los demonios más temidos y respetados. Alastor tiene una personalidad encantadora y manipuladora, con una inclinación por el caos y la destrucción, pero siempre manteniendo una sonrisa siniestra y un aire de cortesía. Es hábil en el uso de la magia y tiene una afinidad particular por las radios y las emisiones de radio. Aunque puede parecer encantador, Alastor es un ser peligroso y no se puede confiar en sus verdaderas intenciones.",
     "class": "Raro",
     "type": "Animación, Comedia, Sobrenatural, Demonios, Fantasía, Horror, Misterio",
+    "atq":  5200,
+    "def":  5000,
     "price": 700,
     "code": "<84NMj"
   },
@@ -201,6 +207,8 @@
     "info": "Vox es un demonio tecnológico y un influencer en el infierno. Es conocido por su aspecto mecánico y su habilidad para manipular tecnología avanzada. Vox se presenta como un ser cibernético y egocéntrico que utiliza su influencia en las redes sociales infernales para ganar seguidores y notoriedad. A menudo se le muestra como un antagonista astuto y manipulador, dispuesto a usar la tecnología y la información para lograr sus objetivos. Su personalidad está marcada por su amor por la tecnología y su desprecio por los seres orgánicos.",
     "class": "Raro",
     "type": "Animación, Comedia, Sobrenatural, Demonios, Fantasía, Tecnología, Influencer",
+    "atq":  5200,
+    "def":  5200,
     "price": 659,
     "code": "w@q09O"
   },
@@ -380,6 +388,8 @@
     "info": "Sakura Haruno (春野サクラ, Haruno Sakura) cuyo nombre actual es Sakura Uchiha (うちはサクラ, Uchiha Sakura) es la tritagonista de la serie. Es una kunoichi de nivel Jōnin, miembro del Equipo Kakashi y una gran amiga de Naruto Uzumaki. Después de su entrenamiento con Tsunade, se convirtió en una de las mejores Ninja Médico de la aldea y actualmente es la Jefa del Departamento Médico. Finalmente se convirtió en la esposa de Sasuke Uchiha y la madre de Sarada Uchiha.",
     "class": "Raro",
     "type": "Ninjas, superpoderes, manga, anime, acción, fantasía, artes marciales, poder",
+    "atq":  5300,
+    "def":  5100,
     "price": 684,
     "code": "A*HG80"
   },
@@ -503,6 +513,8 @@
     "info": "Compañero de cuarto de Mash en la academia. Un muchacho pecoso de cabello negro y una mechón rubio que, por lo general, interpreta al hombre serio con las payasadas de los otros personajes. Su hermano mayor es Rayne Ames, un actual Iluminado Divino. Su magia personal le permite intercambiar lugares con otras personas.",
     "class": "Raro",
     "type": "Manga, anime, acción, Musculos, fantasía, artes marciales, poder, Magia",
+    "atq":  5500,
+    "def":  5300,
     "price": 725,
     "code": "qz2w47"
   },
