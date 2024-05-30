@@ -176,6 +176,8 @@
     "desp": "Jujutsu Kaisen",
     "info": "Satoru Gojo es uno de los personajes más poderosos y carismáticos de 'Jujutsu Kaisen'. Es un hechicero extremadamente habilidoso y el maestro de la Escuela Jujutsu Tokyo. Gojo es conocido por su personalidad relajada y bromista, pero detrás de su actitud despreocupada se encuentra un luchador formidable y astuto. Posee una técnica única llamada 'Infinity', que le otorga un control absoluto sobre el espacio, haciéndolo prácticamente invencible en combate. Gojo es un mentor compasivo para los estudiantes de la escuela y está dispuesto a hacer lo que sea necesario para proteger a aquellos a quienes considera importantes.",
     "class": "Transcendental",
+    "atq":  21000,
+    "def":  21200,
     "type": "Manga, Anime, Acción, Sobrenatural, Fantasía, Artes Marciales, Maestro, Poder",
     "price": 215378,
     "code": "7Xl4%A"
@@ -343,6 +345,8 @@
     "desp": "Jujutsu Kaisen",
     "info": "Ryomen Sukuna (両りょう面めん宿すく儺な¿ Ryōmen Sukuna ? ) , más a menudo denominado simplemente Sukuna (宿すく儺な, Sukuna ? ) , es el hechicero de jujutsu más fuerte de hace mil años. Considerado como el rey indiscutible de las maldiciones (呪のろいの王うう, Noroi no Ō ? ) , Sukuna es uno de los principales antagonistas de la serie Jujutsu Kaisen .",
     "class": "Transcendental",
+    "atq":  21200,
+    "def":  21000,
     "type": "Manga, anime, acción, sobrenatural, fantasía, artes marciales, poder, demonios, villano, fantasía oscura",
     "price": 567234,
     "code": "B1#xo5"
@@ -472,6 +476,8 @@
     "desp": "Naruto",
     "info": "Kaguya Ōtsutsuki (大筒木カグヤ, Ōtsutsuki Kaguya ) era miembro del clan Ōtsutsuki y matriarca de una rama familiar de su clan, incluidos sus hijos Hagoromo y Hamura . Mucho antes de la fundación de las aldeas ocultas, durante una era de guerra sin fin, Kaguya traicionó a su clan al consumir el fruto del Árbol de Dios y se convirtió en la primera portadora de chakra en la Tierra, antes de fusionarse con la forma de Bestia con Cola del árbol en una batalla. contra sus hijos.",
     "class": "Transcendental",
+    "atq":  21300,
+    "def":  21300,
     "type": "Ninjas, superpoderes, manga, anime, acción, fantasía, artes marciales, poder, villano",
     "price": 435129,
     "code": "9JYA#1"
@@ -548,6 +554,8 @@
     "desp": "Mashle: magic and muscles",
     "info": "Mashle (マッシュル), Mash es el protagonista, un adolescente extremadamente fuerte, capaz de sobreponerse a la magia con su propia fuerza. Mash es una persona inexpresiva, imprudente y muy ingenua, pero sobre todo es amable y no duda dos veces en atacar a alguien o romper alguna cosa si algo le molesta, incluso si eso puede ocasionarle problemas. Le gustan mucho los Profiteroles, siendo la única cosa que lo apasiona más que el culturismo. Su meta es convertirse en un 'Iluminado Divino' para poder vivir una vida tranquila con su padre.",
     "class": "Transcendental",
+    "atq":  21400,
+    "def":  21200,
     "type": "Manga, anime, acción, Musculos, fantasía, artes marciales, poder, Magia",
     "price": 630999,
     "code": "qx<3a8"
@@ -611,6 +619,8 @@
     "desp": "Mashle: magic and muscles",
     "info": "Innocent Zero es el líder de una organización criminal del mismo nombre y fue uno de los tres aprendices de Adam Jobs . Es el principal antagonista del Arco del Examen de Selección Divina Visionaria y del Arco del Eclipse , además de servir como el principal antagonista de la serie.",
     "class": "Transcendental",
+     "atq":  21500,
+    "def":  21400,
     "type": "Manga, anime, acción, Musculos, fantasía, artes marciales, poder, Magia, Magia Oscura, villano, Fantasia Oscura",
     "price": 456823,
     "code": "xr4%dp"
@@ -687,6 +697,8 @@
     "desp": "One Punch Man",
     "info": "Saitama (サイタマ?) es el protagonista de la serie de manga y anime One-Punch Man, creado por One. Saitama es un joven adulto que enfrenta una crisis existencial ante su increíble fuerza debido a que no siente emociones durante sus batallas. Tras ser héroe por diversión, se inscribe en la Asociación de Héroes para convertirse en héroe profesional al darse cuenta de que nadie lo reconoce como tal. Debido a su apariencia poco impresionante, sus enemigos suelen subestimarlo al punto de no tomarlo en serio.",
     "class": "Transcendental",
+    "atq":  21600,
+    "def":  21600,
     "type": "Manga, anime, acción, Musculos, fantasía, artes marciales, poder",
     "price": 854213,
     "code": "92otj2"
@@ -764,6 +776,8 @@
     "desp": "Chainsaw Man",
     "info": "Denji (デンジ?) es el personaje principal de la serie de manga Chainsaw Man de Tatsuki Fujimoto. Después de la muerte de su padre, Denji hereda una enorme deuda con la yakuza. Su vida cambia radicalmente al conocer al demonio motosierra, Pochita, lo que lo impulsa a convertirse en cazador de demonios con la esperanza de saldar lo que debe. Sin embargo, la yakuza acaba con su vida, y Pochita se convierte en su corazón, sellando un pacto con Denji, quien anhela una existencia común y corriente. A partir de entonces, al jalar un cordón en su pecho, adquiere la forma del híbrido humano-demonio conocido como Hombre motosierra (チェンソーマン Chensō Man?). Como cazador de demonios de la División Especial de Seguridad Pública, se une a los miembros de la 4ª División Especial de Tokio en la lucha contra el demonio pistola, al tiempo que persigue sus propios intereses personales.",
     "class": "Transcendental",
+      "atq":  21700,
+    "def":  21800,
     "type": "Manga, anime, acción, Demonio, fantasía, sangriento, poder, Cazador de demonios",
     "price": 572334,
     "code": "e2e8tg"
@@ -775,6 +789,8 @@
     "desp": "Chainsaw Man",
     "info": "Pochita (ポチタ, Pochita) es el Demonio Motosierra que encarna el miedo a las motosierras. Era el original Hombre Motosierra antes de convertirse en el corazón de Denji. Es considerado como el 'El héroe del Infierno' una de las entidades más poderosas de la serie después de los Demonios Primigenios, pudiendo defenderse de las hordas de demonios en el Infierno, ileso.",
     "class": "Transcendental",
+     "atq":  21900,
+    "def":  21800,
     "type": "Manga, anime, acción, Demonio, fantasía, sangriento, poder",
     "price": 432932,
     "code": "4jd0th"
@@ -799,6 +815,8 @@
     "desp": "Chainsaw Man",
     "info": "Makima (マキマ, Makima) era una Cazadora de Demonios de Seguridad Pública de alto rango y que tomó a Denji como su mascota humana. A medida que finaliza la primera parte del manga, se revela que ella era el Demonio del Control (支し配はいの悪あく魔ま, Shihai no Akuma), un demonio que encarna el miedo al control o dominación. Ella hizo el papel de antagonista principal de la Saga de Seguridad Pública.",
     "class": "Transcendental",
+       "atq":  22000,
+    "def":  22000,
     "type": "Manga, anime, acción, fantasía, Demonio, sangriento, poder, Cazador de demonios",
     "price": 230412,
     "code": "qxd2r9"
@@ -849,6 +867,8 @@
     "desp": "Chainsaw Man",
     "info": "Himeno (姫野, Himeno) era una Cazadora de Demonios de Seguridad Pública, trabajando bajo el escuadrón especial de Makima, siendo la pareja laboral y figura superior de Aki Hayakawa.",
     "class": "Transcendental",
+    "atq":  22100,
+    "def":  22200,
     "type": "Manga, anime, acción, fantasía, sangriento, Demonio, poder, Fantasia Oscura, villano",
     "price": 876954,
     "code": "e4r9rv"
