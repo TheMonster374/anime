@@ -84,8 +84,8 @@
     "desp": "Death Note",
     "info": "Light Yagami es un estudiante de preparatoria extremadamente talentoso y dedicado, quien encuentra un misterioso cuaderno llamado 'Death Note'. Este cuaderno tiene el poder de matar a cualquier persona cuyo nombre sea escrito en él, siempre y cuando el portador del cuaderno tenga la cara de la persona en mente. Light decide usar el Death Note para eliminar a criminales y crear un mundo libre de maldad, adoptando el alias de 'Kira'. Sin embargo, su búsqueda de justicia lo lleva por un oscuro camino hacia la megalomanía y la corrupción moral, convirtiéndose en un antihéroe extremadamente manipulador y calculador.",
     "class": "Poco Común",
-    "atq":  3000,
-    "def":  4000,
+    "atq":  2500,
+    "def":  2700,
     "type": "Anime, Misterio, Psicológico, Sobrenatural, Thriller, Crimen, Drama",
     "price": 308,
     "code": "0#suv1"
@@ -109,7 +109,7 @@
     "info": "El jefe de la Unidad de Investigación Especial de la Policía Japonesa en 'Death Note'. Es un hombre recto, justo y dedicado a su trabajo como policía. A lo largo de la serie, Yagami lidera la investigación para capturar al misterioso asesino en serie conocido como 'Kira', sin saber que su propio hijo, Light Yagami, es en realidad Kira. Soichiro se esfuerza por cumplir su deber como policía y enfrenta dilemas éticos difíciles a medida que se desarrolla la trama.",
     "class": "Común",
     "atq": 1000,
-    "def":  2000,
+    "def":  1200,
     "type": "Anime, Misterio, Psicológico, Sobrenatural, Thriller, Crimen, Drama, Policía",
     "price": 108,
     "code": "79UKU%"
@@ -165,8 +165,8 @@
     "desp": "One Piece",
     "info": "Brook es un esqueleto viviente y músico que se une a la tripulación de los Piratas del Sombrero de Paja en 'One Piece'. Originalmente, Brook fue un ser humano que consumió la Fruta Revive-Revive, lo que le permitió regresar a la vida después de morir. Sin embargo, su alma terminó regresando a su esqueleto. Brook es un espadachín habilidoso y tiene una personalidad alegre y extravagante. Es conocido por su amor por la música y su habilidad para tocar el violín, así como por su tendencia a hacer chistes sobre su naturaleza esquelética.",
     "class": "Poco Común",
-    "atq":  3500,
-    "def":  4500,
+    "atq":  2800,
+    "def":  2600,
     "type": "Manga, Anime, Aventura, Piratas, Comedia, Fantasía, Música",
     "price": 300,
     "code": "8loJ5@"
@@ -489,8 +489,8 @@
     "desp": "Mashle: magic and muscles",
     "info": "Lemon es una tímida Maga de cabello rubio y corto que trata de entrar a la Academia de Magia para sacar a su familia de la pobreza. Ella se autoproclama como la futura esposa de Mash desde que este la protegiera durante los exámenes de acceso.",
     "class": "Común",
-    "atq":  1500,
-    "def":  2500,
+    "atq":  1300,
+    "def":  1000,
     "type": "Manga, anime, acción, Musculos, fantasía, artes marciales, poder, Magia",
     "price": 209,
     "code": "qx#348"
@@ -581,8 +581,8 @@
     "desp": "Oni Chi Chi",
     "info": "Protagonista de esta obra. 30 años de edad. Tiene un doctorado en la Universidades Kinoekita y es profesor de laboratorio de bioquímica en dicho plantel. Durante una etapa de su experimento, ocurrió un accidente; que acaeció en una pérdida de su virilidad y además, parte de su función masculina debido a un trauma psicológico hace algunos años, abrazado el interés sexual frente a las dos personas que conoce Marina y Airi, quien se acerca a ellas tomando como excusa un complejo de lolita.",
     "class": "Poco Común",
-    "atq":  5000,
-    "def":  4000,
+    "atq":  2900,
+    "def":  2900,
     "type": "Manga, anime, Hentai, +18",
     "price": 327,
     "code": "ci4gd2"
@@ -794,9 +794,9 @@
     "info": "Kiyotaka Ijichi (伊地知潔高 Ijichi Kiyotaka?) es uno de los personajes de la serie manga Jujutsu Kaisen. Fue antiguo estudiante del Colegio Técnico de Magia Metropolitana de Tokio y, actualmente, trabaja como asistente auxiliar e informante de las misiones para los estudiantes y chamanes que integran al Colegio. También es asistente directo del Director Masamichi Yaga.",
     "class": "Poco Común",
     "type": "Manga, anime, acción, sobrenatural, fantasía, artes marciales, poder",
+    "atq":  3000,
+    "def":  2800,
     "price": 223,
-    "atq":  5500,
-    "def":  4500,
     "code": "4ek4fb"
   }
 ]
