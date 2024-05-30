@@ -8,6 +8,8 @@
       "info": "Goku es un saiyajin que fue enviado a la Tierra cuando era un bebé con la misión de conquistar el planeta, pero debido a un golpe en la cabeza, perdió su instinto violento y se convirtió en un héroe. Es conocido por su insaciable apetito, su ingenuidad y su pasión por el combate. A lo largo de la serie, Goku se embarca en numerosas aventuras para proteger la Tierra y alcanzar nuevas metas, como convertirse en el luchador más fuerte del universo.",
       "price": 2500,
       "class": "Épico",
+      "atq":  8000,
+      "def":  8200,
       "type": "Anime",
       "code": "95iYY%"
     },
@@ -32,6 +34,8 @@
       "info": "Tom Holland es conocido principalmente por interpretar a Peter Parker / Spider-Man en el Universo Cinematográfico de Marvel (MCU). Es un actor talentoso y versátil que ha recibido elogios por su actuación como el icónico superhéroe. Además de su papel en el MCU, Holland ha participado en otras producciones cinematográficas y teatrales.",
       "price": 1100,
       "class": "Épico",
+      "atq":  8200,
+      "def":  8000,
       "type": "Celebridad, Cine, Superhéroes, Acción, Drama",
       "code": "95UQ%r"
     },
@@ -77,6 +81,8 @@
     "desp": "One Piece",
     "info": "Luffy es un joven pirata que sueña con convertirse en el Rey de los Piratas, el título que ostentaba el legendario Gol D. Roger. Luffy obtiene poderes de la Fruta del Diablo Gomu Gomu, lo que le permite estirar su cuerpo como si fuera goma. Es extremadamente valiente, imprudente y siempre está dispuesto a ayudar a sus amigos. Luffy es conocido por su naturaleza despreocupada y su inquebrantable determinación, así como por su capacidad para reunir a un variado grupo de piratas bajo su bandera en busca del tesoro conocido como el 'One Piece'.",
     "class": "Épico",
+    "atq":  8300,
+    "def":  8300,
     "type": "Anime, Acción, Aventura, Piratas, Fantasía, Amistad, Comedia",
     "price": 4153,
     "code": "0<KHO7"
@@ -101,6 +107,8 @@
     "desp": "Death Note",
     "info": "Misa Amane es una famosa idol y modelo en el mundo ficticio de 'Death Note'. Después de que su familia fuera asesinada por un asesino en serie, Misa se convierte en la portadora de un segundo Death Note. Es extremadamente leal a Light Yagami, a quien idolatra y admira como a un dios. Misa está dispuesta a hacer cualquier cosa por él, incluso sacrificar su propia vida. A pesar de su apariencia inocente y cariñosa, Misa es astuta y está dispuesta a usar el Death Note para ayudar a Light en su búsqueda de justicia, convirtiéndose en una figura complicada dentro de la trama.",
     "class": "Épico",
+    "atq":  8400,
+    "def":  8200,
     "type": "Anime, Misterio, Psicológico, Sobrenatural, Thriller, Crimen, Drama, Ídolo",
     "price": 808,
     "code": "3i<M5z"
@@ -125,6 +133,8 @@
     "desp": "Sword Art Online",
     "info": "Asuna Yuuki es una de las protagonistas principales de 'Sword Art Online'. En el juego de realidad virtual Sword Art Online, Asuna es una espadachina habilidosa y valiente que se destaca en combate. A lo largo de la serie, desarrolla una estrecha relación con el protagonista, Kirito, y juntos enfrentan numerosos desafíos dentro del juego y en el mundo real. Asuna es retratada como una persona fuerte, decidida y leal a sus amigos, dispuesta a hacer todo lo posible para protegerlos y lograr sus objetivos.",
     "class": "Épico",
+     "atq":  8500,
+    "def":  8400,
     "type": "Anime, Acción, Aventura, Romance, Realidad Virtual, Fantasía",
     "price": 1047,
     "code": "B6YQ%8"
@@ -136,6 +146,8 @@
     "desp": "Fairy Tail",
     "info": "Erza Scarlet es una poderosa maga y miembro destacado del gremio de magos Fairy Tail. Es conocida como 'Erza la Titania' debido a su gran habilidad en combate y su posición de liderazgo dentro del gremio. Erza es una guerrera formidable que domina la magia del Re-Equipamiento, que le permite cambiar de armadura y armas en medio de la batalla según sea necesario. A pesar de su apariencia seria y decidida en combate, Erza también muestra un lado amable y compasivo hacia sus amigos y compañeros de gremio.",
     "class": "Épico",
+    "atq":  8600,
+    "def":  8600,
     "type": "Anime, Acción, Aventura, Magia, Fantasía, Amistad, Comedia",
     "price": 1179,
     "code": "UP%30J"
@@ -230,6 +242,8 @@
     "desp": "Élite",
     "info": "Leopoldo Benavent Villada, más comúnmente conocido como Polo, fue un personaje principal en la serie Élite de Netflix. Era un estudiante que asistía a Las Encinas que se convirtió en objeto de odio masivo después del asesinato accidental de su compañera de clase, Marina Nunier Osuna. Fue interpretado por Álvaro Rico.",
     "class": "Épico",
+    "atq":  8700,
+    "def":  8800,
     "type": "Drama adolescente, Intriga, Suspenso, Crimen, Amoríos, Secretos, Escuela privada, Clase social, Suspenso, Serie, Triángulos amorosos, Diversidad, Juventud, Traición, Misterio",
     "price": 1096,
     "code": "t7_o0w"
@@ -265,6 +279,8 @@
     "desp": "Jujutsu Kaisen",
     "info": "Yuji Itadori (虎いた杖どり悠ゆう仁じ, Itadori Yuji ? ) es el protagonista principal de la serie Jujutsu Kaisen . Es hijo de Jin Itadori y Kaori Itadori , y nieto de Wasuke Itadori . Yuji vivía una vida normal en la ciudad de Sendai hasta que se encontró con Megumi y se comió uno delos dedos de Sukuna . Después de convertirse en el recipiente de Sukuna, Yuji comenzó a asistir a Tokyo Jujutsu High junto a Megumi y Nobara como estudiantes de primer año.",
     "class": "Épico",
+    "atq":  8900,
+    "def":  8800,
     "type": "Manga, anime, acción, sobrenatural, fantasía, artes marciales, poder",
     "price": 1470,
     "code": "TH!f97"
@@ -298,6 +314,8 @@
     "desp": "Jujutsu Kaisen",
     "info": "Suguru Geto (夏油傑, Getō Suguru?) es uno de los principales antagonistas de la serie manga Tokyo Metropolitan Curse Technical School y de la serie secuela, Jujutsu Kaisen. Es uno de los cuatro chamanes de Clase Especial, antiguo estudiante de Masamichi Yaga y compañero de Satoru Gojo y Shoko Ieiri.",
     "class": "Épico",
+    "atq":  9000,
+    "def":  9000,
     "type": "Manga, anime, acción, sobrenatural, fantasía, artes marciales, poder, fantasía oscura, villano",
     "price": 1199,
     "code": "9^Bpu8"
@@ -320,6 +338,8 @@
     "desp": "Jujutsu Kaisen",
     "info": "Toge Inumaki (狗巻棘, Inumaki Toge?) es uno de los personajes de la serie manga Tokyo Metropolitan Curse Technical School y su serie secuela, Jujutsu Kaisen. Es un estudiante de segundo año del Colegio Técnico de Magia Metropolitana de Tokio y miembro del Clan Inumaki.",
     "class": "Épico",
+    "atq":  9100,
+    "def":  9200,
     "type": "Manga, anime, acción, sobrenatural, fantasía, artes marciales, poder",
     "price": 3017,
     "code": "jE%0I3"
@@ -365,6 +385,8 @@
     "desp": "Naruto",
     "info": "Rock Lee (ロック・リー, Rokku Rī) es un ninja de rango Jōnin perteneciente a Konohagakure. Hace parte del Equipo Guy, junto a sus compañeros Neji Hyūga y Tenten, y fue uno de los miembros que formaron parte de la Tercera División durante la Cuarta Guerra Mundial Shinobi.",
     "class": "Épico",
+    "atq":  9300,
+    "def":  9300,
     "type": "Ninjas, amistad, superpoderes, manga, anime, acción, fantasía, artes marciales, poder",
     "price": 1343,
     "code": "YjN85#"
@@ -433,6 +455,8 @@
     "desp": "Naruto",
     "info": "Gaara (我愛羅, Gaara) es un shinobi de Sunagakure y el Quinto Kazekage (五代目風影, Godaime Kazekage), fue el Comandante General del ejército de la Gran Alianza Shinobi y Comandante de la Cuarta División. Formó parte del ex-equipo Baki. Es el hijo menor del Cuarto Kazekage, Rasa y Karura, hermano menor de Temari y Kankuro.",
     "class": "Épico",
+    "atq":  9400,
+    "def":  9400,
     "type": "Ninjas, superpoderes, manga, anime, acción, fantasía, artes marciales, poder, villano, demonios, fantasía oscura",
     "price": 1470,
     "code": "iB5@T5"
@@ -444,6 +468,8 @@
     "desp": "Naruto",
     "info": "Hinata Hyūga (日向ヒナタ, Hyūga Hinata) cuyo nombre actual es Hinata Uzumaki (うずまきヒナタ, Uzumaki Hinata) es una kunoichi de rango Chūnin de Konohagakure y antigua heredera de la rama principal del Clan Hyūga, además de ser hija de Hiashi Hyūga, prima de Neji Hyūga y hermana mayor de Hanabi Hyūga. Formó parte del Equipo Kurenai, siendo compañera de Kiba Inuzuka y Shino Aburame. Posteriormente, se convirtió en la esposa de Naruto, con quien tuvo dos hijos, Boruto Uzumaki y Himawari Uzumaki.",
     "class": "Épico",
+    "atq":  9500,
+    "def":  9600,
     "type": "Ninjas, superpoderes, manga, anime, acción, fantasía, artes marciales, poder",
     "price": 1252,
     "code": "%25kSe"
@@ -477,6 +503,8 @@
     "desp": "Jujutsu kaisen",
     "info": "Nobara Kugisaki es un personaje ficticio de la franquicia de anime y manga Jujutsu Kaisen, creado por Gege Akutami. Siendo la tritagonista de la serie, Nobara es una estudiante de hechicería de la escuela de magia de Tokio, bajo la tutela de Satoru Gojō",
     "class": "Épico",
+    "atq":  9600,
+    "def":  9600,
     "type": "Manga, anime, acción, sobrenatural, fantasía, artes marciales, poder",
     "price": 1110,
     "code": "tu<3a2"
@@ -582,6 +610,8 @@
     "desp": "Oni Chi Chi",
     "info": "Protagonista femenina. Estudiante de primer año en la escuela St. Kaede. Pertenece al club de música ligera. Es la segunda hija de Kayoko. Es rubia debido a los genes de su padre biológico; en lo físico es delgada, su altura es un poco inferior al de su hermana por unos centímetros debido a los dos años de diferencia, pero eso no quita el hecho de que su busto sea equiparable al de su hermana; también luce un par de coletas estilo francés, haciéndola ver aún más atractiva. Por el contrario, su personalidad es un poco testaruda, rebelde y es de espíritu libre y egoísta, lo contrario de su hermana Marina. No le gusta que le hablen de Kōzō. No tiene novio.",
     "class": "Épico",
+    "atq":  9700,
+    "def":  9800,
     "type": "Manga, anime, Hentai, +18",
     "price": 2413,
     "code": "d19f3j"
@@ -606,6 +636,8 @@
     "desp": "Oni Chi Chi",
     "info": "Hermana de la protagonista . Estudiante de tercer año en la escuela St. Kaede. Hija mayor de Kayoko. Como la madre está ocupada con el trabajo, y con el fin de compartir la presión de la madre en el hogar, toma riendas con las tareas del hogar, tiene un carácter conservador y serio. Su aspecto es más parecido a su madre, arraigado a lo japonés, presenta un cabello largo color marrón, ojos violetas, y un busto grande. Es tan modesta con sus asuntos que llegó a tener citas a escondidas con su novio Masato.",
     "class": "Épico",
+    "atq":  9800,
+    "def":  9900,
     "type": "Manga, anime, Hentai, +18",
     "price": 1327,
     "code": "fth6d2"
@@ -728,6 +760,8 @@
     "desp": "Chainsaw Man",
     "info": "Kobeni Higashiyama (東ひがし山やま コベニ, Higashiyama Kobeni) es una ex Cazadora de Demonios de Seguridad Pública que comenzó como nueva recluta trabajando para el escuadrón especial de Makima.",
     "class": "Épico",
+    "atq":  10000,
+    "def":  10000,
     "type": "Manga, anime, acción, fantasía, sangriento, poder, Cazador de demonios",
     "price": 40452,
     "code": "qxd2r9"
