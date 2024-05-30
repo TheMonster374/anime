@@ -200,6 +200,8 @@
     "desp": "One Piece",
     "info": "Zoro Es Uno De Los Tripulantes De La Tripulación De Luffy, Y Es Uno  De Los Más Fuertes Y Esforzados. Su Personalidad Es Fuerte, Determinada Y Dura, Pero También Tiene Un Gran Corazón Y Una Gran Lealtad A Su Capitán.",
     "class": "Supremo",
+    "atq":  18000,
+    "def":  18200,
     "type": "Manga, Anime, Aventura, Piratas, Artes Marciales, Acción, Comedia",
     "price": 19256,
     "code": "s3l0p<"
@@ -378,6 +380,8 @@
     "desp": "Jujutsu Kaisen",
     "info": "Yuta Okkotsu (乙っっ骨こつ憂ゆう太た, Okkotsu Yuta ? ) es un personaje secundario importante en la serie Jujutsu Kaisen y el protagonista principal de su serie precuela, Jujutsu Kaisen 0: Jujutsu High . Inicialmente era un humano maldito de grado especial perseguido por su difunta amiga de la infancia, Rika Orimoto . Satoru Gojo fue el mentor de Yuta y lo inscribió en Tokyo Jujutsu High .",
     "class": "Supremo",
+    "atq":  18200,
+    "def":  18000,
     "type": "Manga, anime, acción, sobrenatural, fantasía, artes marciales, poder, demonios",
     "price": 22156,
     "code": "*ki0u8"
@@ -505,6 +509,8 @@
     "desp": "Naruto",
     "info": "Jiraiya (自来也, Jiraiya) fue uno de los legendarios Sannin junto con Tsunade y Orochimaru, quienes fueron entrenados por el Tercer Hokage. Escribió una popular serie de libros para adultos, llamada ICHA ICHA, por esto y entre otras muchas razones, Naruto lo llama Sabio Pervertido (エロ仙人, Ero-sennin). También fue conocido como el Sabio Sapo (虾蟇仙人, Gama Sennin), gracias a sus invocaciones de sapos y por la habilidad de entrar en el Modo Sabio.",
     "class": "Supremo",
+    "atq":  18300,
+    "def":  18300,
     "type": "Ninjas, superpoderes, manga, anime, acción, fantasía, artes marciales, poder",
     "price": 19440,
     "code": "7owG3%"
@@ -516,6 +522,8 @@
     "desp": "Naruto",
     "info": "Tsunade (綱手, Tsunade) es una de los legendarios Sannin junto con Orochimaru y Jiraiya, siendo también conocida por ser una de las kunoichis más fuertes y la mejor Ninja Médico del mundo. Se convirtió en la Quinta Hokage (五代目火影, Godaime Hokage, que significa Quinta Sombra del Fuego), después de que Hiruzen Sarutobi muriera en manos de Orochimaru. Además, fue mentora de Shizune, Sakura Haruno e Ino Yamanaka.",
     "class": "Supremo",
+    "atq":  18400,
+    "def":  18200,
     "type": "Ninjas, superpoderes, manga, anime, acción, fantasía, artes marciales, poder",
     "price": 10369,
     "code": "0Lz5%J"
@@ -615,8 +623,8 @@
     "info": "Un clon humano creado por Innocent Zero. Su magia personal le permite crear y manipular carbono y, por extensión, diamantes.",
     "class": "Supremo",
     "type": "Manga, anime, acción, Musculos, fantasía, artes marciales, poder, Magia, Magia Oscura, villano, Fantasia Oscura",
-    "atq": 3999,
-    "def": 2005,
+    "atq":  18500,
+    "def":  18400,
     "price": 159427,
     "code": "x24td2"
   },
@@ -690,6 +698,8 @@
     "desp": "One Punch Man",
     "info": "Genos, es el deuteragonista de One Punch-Man. Es un cyborg de 19 años y discípulo de Saitama. Él siempre esta con el objetivo de ser el más fuerte y lucha por la justicia. Bajo la Asociación de Héroes, se le da el nombre de Cyborg Demoníaco (鬼サイボーグ, Oni Saibōgu) y actualmente se encuentra en la Clase-S, rango 14.",
     "class": "Supremo",
+    "atq":  18600,
+    "def":  18600,
     "type": "Manga, anime, acción, Musculos, fantasía, artes marciales, poder, Cyborg",
     "price": 360876,
     "code": "9op6yh"
@@ -702,6 +712,8 @@
     "desp": "One Punch Man",
     "info": "Tatsumaki (タツマキ, Tatsumaki - Esp: Tornado), también conocida como Tornado del Terror (戦慄のタツマキ, Senritsu no Tatsumaki), es la heroína profesional de la Clase-S, rango 2 de la Asociación de Héroes, una esper, y la hermana mayor de Fubuki. Ella y su hermana son conocidas como las Hermanas Psíquicas (エスパー姉妹, Esupā shimai).",
     "class": "Supremo",
+    "atq":  18700,
+    "def":  18800,
     "type": "Manga, anime, acción, fantasía, artes marciales, poder",
     "price": 230776,
     "code": "9of4yt"
@@ -726,6 +738,8 @@
     "desp": "One Punch Man",
     "info": "Do-S es una kaijin que se asemeja a una mujer humana con cabello largo y rubio con una flor negra en el lado izquierdo de su cabeza. Sus ojos son claros con esclerótica negra y tiene un símbolo rosado con forma de corazón en la frente, así como muchos piercings en ambas orejas. Se viste con un traje de BDSM hecho de tiras y sujetado por anillos de metal que revelan su forma y su voluptuosa figura.",
     "class": "Supremo",
+    "atq":  18900,
+    "def":  18800,
     "type": "Manga, anime, acción, Musculos, fantasía, artes marciales, poder, villano, Fantasia Oscura",
     "price": 364856,
     "code": "yu8ky1"
@@ -737,6 +751,8 @@
     "desp": "One Punch Man",
     "info": "Sonic Velocidad del Sonido (音速のソニック, Onsoku no Sonikku), también conocido como Sonic, es un villano recurrente y un anti-héroe ocasional en la serie, que aparece por primera vez como un guardaespaldas contratado por Zeniru. Él es un miembro anterior de la clase 44.ª de la graduación de la Aldea Ninja, apodado 'El Fin'. Sonic ve a Saitama como su eterno rival.",
     "class": "Supremo",
+    "atq":  19000,
+    "def":  19000,
     "type": "Manga, anime, acción, Musculos, fantasía, artes marciales, poder, villano, Fantasia Oscura",
     "price": 206135,
     "code": "t1er50"
@@ -807,6 +823,8 @@
     "desp": "Chainsaw Man",
     "info": "Kishibe (岸きし辺べ, Kishibe) es un Cazador de Demonios de Seguridad Pública de la División Especial 1, pero luego del asalto a las Divisiones Especiales, se convirtió en capitán de la División Especial 4.",
     "class": "Supremo",
+    "atq":  19100,
+    "def":  19200,
     "type": "Manga, anime, acción, fantasía, sangriento, poder, Cazador de demonios",
     "price": 75631,
     "code": "3ay2rg"
