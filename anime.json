@@ -263,6 +263,8 @@
     "desp": "vocaloid",
     "info": "inabakumori (稲葉曇), también estilizado como INABAKUMORI, es un productor de VOCALOID que utiliza principalmente a Kaai Yuki.",
     "class": "Sagrado",
+    "atq":  15000,
+    "def":  15200,
     "type": "Vocaloid, Música, Anime, Fantasía",
     "price": 9139,
     "code": "8dl!8V"
@@ -313,6 +315,8 @@
     "desp": "Jujutsu Kaisen",
     "info": "Toji Fushiguro (伏黒甚爾, Fushiguro Tōji?), nacido como Toji Zenin (禪院甚爾, Zen'in Tōji?), es un personaje secundario recurrente de Jujutsu Kaisen. Fue miembro del Clan Zenin y el padre de Megumi Fushiguro y Tsumiki Fushiguro.",
     "class": "Sagrado",
+     "atq":  15200,
+    "def":  15000,
     "type": "Manga, anime, acción, sobrenatural, fantasía, artes marciales, poder",
     "price": 7398,
     "code": "oq68V<"
@@ -412,6 +416,8 @@
     "desp": "Naruto",
     "info": "Kakashi Hatake (はたけカカシ, Hatake Kakashi) es un shinobi de Konohagakure. Fue un Jōnin, ex-ANBU y el líder del Equipo 7. Fue conocido mundialmente por su uso del Sharingan, lo que le valió el apodo de Kakashi el Ninja que Copia (コピー忍者のカカシ, Kopi Ninja no Kakashi) y Kakashi del Sharingan (写輪眼のカカシ, Sharingan no Kakashi).",
     "class": "Sagrado",
+    "atq":  15300,
+    "def":  15300,
     "type": "Ninjas, superpoderes, manga, anime, acción, fantasía, artes marciales, poder",
     "price": 9469,
     "code": "Yb6#9E"
@@ -449,6 +455,8 @@
     "desp": "Naruto",
     "info": "Madara Uchiha (うちはマダラ, Uchiha Madara) fue un legendario shinobi, co-fundador de Konoha y líder del Clan Uchiha durante su tiempo. Además, fue la pasada Reencarnación de Indra Ōtsutsuki. Luego, fue revivido en la Cuarta Guerra Mundial Shinobi para luchar contra la Gran Alianza Shinobi, revelando sus verdaderas intenciones, haciéndolo el antagonista principal de la serie. Madara logró capturar a las nueve Bestias con Cola, sellarlas en la Estatua Demoníaca del Camino Exterior y, de esa manera, convertirse en el tercer y último Jinchūriki del Diez Colas.",
     "class": "Sagrado",
+    "atq":  15400,
+    "def":  15200,
     "type": "Ninjas, superpoderes, manga, anime, acción, fantasía, artes marciales, poder, villano",
     "price": 8365,
     "code": "bM#8N4"
@@ -762,6 +770,8 @@
     "desp": "Chainsaw Man",
     "info": "Aki Hayakawa (早川はやかわ アキ, Hayakawa Aki) era un Cazador de Demonios de Seguridad Pública, que trabajaba en el escuadrón especial de Makima. Él poseía contratos con el Demonio Maldición, el Demonio del Futuro y, anteriormente, con el Demonio Zorro. ",
     "class": "Sagrado",
+    "atq":  15500,
+    "def":  15400,
     "type": "Manga, anime, acción, fantasía, sangriento, poder, Cazador de demonios",
     "price": 74329,
     "code": "0hd7tp"
@@ -808,6 +818,8 @@
     "desp": "Chainsaw Man",
     "info": "Himeno (姫野, Himeno) era una Cazadora de Demonios de Seguridad Pública, trabajando bajo el escuadrón especial de Makima, siendo la pareja laboral y figura superior de Aki Hayakawa.",
     "class": "Sagrado",
+    "atq":  15600,
+    "def":  15600,
     "type": "Manga, anime, acción, fantasía, sangriento, artes marciales, poder, Cazador de demonios",
     "price": 85327,
     "code": "7t2ir0"
@@ -830,6 +842,8 @@
     "desp": "Chainsaw Man",
     "info": "Katana Man (nombre real desconocido), también conocido como Espada Samurai (サムライソード, Samurai sōdo) es un híbrido que se fusiono con el Demonio Katana. Su abuelo fue el jefe Yakuza asesinado por Denji, razón por la cual se asoció con Akane Sawatari para vengarse de Denji y robarle el corazón. Es el antagonista principal del Arco de Katana Man y un antagonista menor en el Arco del Demonio Control.",
     "class": "Sagrado",
+    "atq":  15700,
+    "def":  15800,
     "type": "Manga, anime, acción, fantasía, sangriento, Demonio, poder, Fantasia Oscura, villano",
     "price": 53893,
     "code": "f2k4tb"
@@ -841,6 +855,8 @@
     "desp": "Chainsaw Man",
     "info": "Akane Sawatari (沢渡アカネ, Sawatari Akane) era una ex Cazadora de Demonios Privada que trabajaba con el Demonio Pistola y que también tenía un contrato con el Demonio Serpiente. Ella hizo de antagonista secundaria en el Arco de Katana Man.",
     "class": "Sagrado",
+    "atq":  15900,
+    "def":  15800,
     "type": "Manga, anime, acción, fantasía, sangriento, poder, Fantasia Oscura, villano",
     "price": 43893,
     "code": "f8t4tc"
@@ -852,6 +868,8 @@
     "desp": "Chainsaw Man",
     "info": "Power es un personaje ficticio de la serie de manga Chainsaw Man de Tatsuki Fujimoto. Ella es un demonio que trabaja junto al personaje principal, Denji, contra diferentes enemigos.",
     "class": "Sagrado",
+    "atq":  16000,
+    "def":  16000,
     "type": "Manga, anime, acción, fantasía, sangriento, poder, Demonio, Cazador de demonios",
     "price": 35843,
     "code": "h2r4tk"
