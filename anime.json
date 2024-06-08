@@ -925,5 +925,57 @@
     "price": 223,
     "code": "4ek4fb"
   }
+    {
+    "index": 73,
+    "url": "https://telegra.ph/file/ed67074cf2b736148101b.jpg",
+    "name": "Kuzen Yoshimura",
+    "desp": "Tokyo Ghoul",
+    "info": "Yoshimura ( 芳村 よしむら , Yoshimura?) es un Ghoul de Clasificación SSS y ex-gerente de la cafetería Anteiku. Intenta ayudar a los Ghouls, especialmente a aquellos que no pueden cazar por sí mismos. Toma a Ken Kaneki y le enseña a vivir como un ghoul"
+    "class": "Transcendental",
+    "type": "Fantasía, Anime, Fantasía oscura, Suspenso, Demonios",
+    "atq":  22300,
+    "def":  22300,
+    "price": 209323,
+    "code": "2Tk4fb"
+  },
+  {
+    "index": 74,
+    "url": "https://telegra.ph/file/0824a767b55787b6bf7da.png",
+    "name": "Rize Kamishiro",
+    "desp": "Tokyo Ghoul",
+    "info": "Rize Kamishiro ( 神代 利世 かみしろ りぜ , Kamishiro Rize?) fue la hija adoptiva de Matasaka Kamishiro además de ser una ghoul que escapó de la organización V."
+    "class": "Sagrado",
+    "type": "Fantasía, Anime, Fantasía oscura, Suspenso, villano, Demonios",
+    "atq":  16200,
+    "def":  16100,
+    "price": 9323,
+    "code": "2TFp3b"
+  },
+  {
+    "index": 75,
+    "url": "https://telegra.ph/file/887bc7c1e8753938ecbfa.jpg",
+    "name": "Hideyoshi Nagachika",
+    "desp": "Tokyo Ghoul",
+    "info": "Hideyoshi Nagachika ( 永近 英良 , Nagachika Hideyoshi?) también conocido como Hide ( ヒデ , Hide?) es un Pacificador Asistente del TSC y el mejor amigo de Ken Kaneki. Él fue estudiante de primer año (segundo año tras el Capítulo 80) del Departamento de Estudios Internacionales de la Universidad Kamii."
+    "class": "Raro",
+    "type": "Fantasía, Anime, Fantasía oscura, Suspenso",
+    "atq":  5700,
+    "def":  5600,
+    "price": 623,
+    "code": "4yFp3V"
+  },
+  {
+    "index": 76,
+    "url": "https://telegra.ph/file/139d3ab52491e73caab7e.jpg",
+    "name": "Noro",
+    "desp": "Tokyo Ghoul",
+    "info": "Noro (ノロ, Noro?) fue uno de los subordinados directos del Rey de un Ojo y uno de los dos líderes del Árbol Aogiri, junto a Tatara. En el pasado él era llamado Noroi (ノロイ, Noroi?) y fue el encargado de criar a Eto, cuando Kuzen se la entregó en el Distrito 24"    
+    "class": "Sagrado",
+    "type": "Fantasía, Anime, Fantasía oscura, Suspenso, villano, Demonios",
+    "atq":  16300,
+    "def":  16300,
+    "price": 9623,
+    "code": "E2Fr6V"
+  }
 ]
 }
