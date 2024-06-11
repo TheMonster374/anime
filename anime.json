@@ -1042,6 +1042,58 @@
     "def":  14000,
     "price": 5745,
     "code": "5g2s4W"
+  },
+  {
+    "index": 82,
+    "url": "https://telegra.ph/file/aa25110c4e3e27a3b3402.jpg",
+    "name": "Shuu Tsukiyama",
+    "desp": "Tokyo Ghoul",
+    "info": "Shuu Tsukiyama (月山習つきやま しゅう, Tsukiyama Shū?) es el infame Ghoul 'Gourmet' (美食家?) del Distrito 20. Él es un estudiante de cuarto año en Estudios de Bienestar Social en el Departamento de Ciencias Humanas de la Universidad Seinan Gakuin. Él viene de una familia muy rica e influyente, dirigida por su padre, Mirumo Tsukiyama.",
+    "class": "Legendario",
+    "type": "Fantasía, Anime, Fantasía oscura, Suspenso, villano",
+    "atq":  14100,
+    "def":  14200,
+    "price": 4145,
+    "code": "5t6z4W"
+  },
+  {
+    "index": 83,
+    "url": "https://telegra.ph/file/5b4086628183d652a94b1.jpg",
+    "name": "Eto Yoshimura",
+    "desp": "Tokyo Ghoul",
+    "info": "Eto Yoshimura (芳村 エト, Yoshimura Eto?) es una Medio Ghoul, administradora y la fundadora del Árbol Aogiri, a menudo se encontraba junto a su compañero de grupo Tatara.",
+    "class": "Legendario",
+    "type": "Fantasía, Anime, Fantasía oscura, Suspenso, villano",
+    "atq":  14300,
+    "def":  14400,
+    "price": 5155,
+    "code": "5t6R7s"
+  }, 
+   {
+    "index": 84,
+    "url": "https://telegra.ph/file/03ea9db4ae7e0593fc414.jpg",
+    "name": "Yakumo Oomori",
+    "desp": "Tokyo Ghoul",
+    "info": "Por lo general lo llamaban por su alias "Yamori" (ヤモリ, lit. "Gecko"). Debido a su brutalidad, él también ha sido conocido como el "Jason" del Distrito 13. Yamori también aparece en el spin-off Tokyo Ghoul: Jack en su juventud.",
+    "class": "Legendario",
+    "type": "Fantasía, Anime, Fantasía oscura, Suspenso, villano",
+    "atq":  14500,
+    "def":  14500,
+    "price": 5531,
+    "code": "1G6P7s"
+  },
+  {
+    "index": 85,
+    "url": "https://telegra.ph/file/d9c51bddd9430ca72c538.jpg",
+    "name": "Renji Yomo",
+    "desp": "Tokyo Ghoul",
+    "info": "Renji Yomo (四方 蓮示, Yomo Renji?) es la mano derecha de Yoshimura. Es un viejo amigo de Uta e Itori. Debido a sus hábitos alimenticios y su máscara en forma de ave, se ha ganado el apodo de Cuervo (カラス, Karasu).",
+    "class": "Sagrado",
+    "type": "Fantasía, Anime, Fantasía oscura, Suspenso",
+    "atq":  16600,
+    "def":  16600,
+    "price": 9245,
+    "code": "5F2s4W"
   }
 ]
 }
