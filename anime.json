@@ -1067,33 +1067,7 @@
     "def":  14200,
     "price": 4145,
     "code": "5t6z4W"
-  },
-  {
-    "index": 84,
-    "url": "https://telegra.ph/file/5b4086628183d652a94b1.jpg",
-    "name": "Eto Yoshimura",
-    "desp": "Tokyo Ghoul",
-    "info": "Eto Yoshimura (芳村 エト, Yoshimura Eto?) es una Medio Ghoul, administradora y la fundadora del Árbol Aogiri, a menudo se encontraba junto a su compañero de grupo Tatara.",
-    "class": "Legendario",
-    "type": "Fantasía, Anime, Fantasía oscura, Suspenso, villano",
-    "atq":  14300,
-    "def":  14400,
-    "price": 5155,
-    "code": "5t6R7s"
-  }, 
-   {
-    "index": 85,
-    "url": "https://telegra.ph/file/03ea9db4ae7e0593fc414.jpg",
-    "name": "Yakumo Oomori",
-    "desp": "Tokyo Ghoul",
-    "info": "Por lo general lo llamaban por su alias "Yamori" (ヤモリ, lit. "Gecko"). Debido a su brutalidad, él también ha sido conocido como el "Jason" del Distrito 13. Yamori también aparece en el spin-off Tokyo Ghoul: Jack en su juventud.",
-    "class": "Legendario",
-    "type": "Fantasía, Anime, Fantasía oscura, Suspenso, villano",
-    "atq":  14500,
-    "def":  14500,
-    "price": 5531,
-    "code": "1G6P7s"
-  }  
+  }
   
 ]
 }
