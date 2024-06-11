@@ -1081,7 +1081,19 @@
     "def":  14500,
     "price": 5531,
     "code": "1G6P7s"
-  }  
-  
+  },
+  {
+    "index": 82,
+    "url": "https://telegra.ph/file/d9c51bddd9430ca72c538.jpg",
+    "name": "Renji Yomo",
+    "desp": "Tokyo Ghoul",
+    "info": "Renji Yomo (四方 蓮示, Yomo Renji?) es la mano derecha de Yoshimura. Es un viejo amigo de Uta e Itori. Debido a sus hábitos alimenticios y su máscara en forma de ave, se ha ganado el apodo de Cuervo (カラス, Karasu).",
+    "class": "Sagrado",
+    "type": "Fantasía, Anime, Fantasía oscura, Suspenso",
+    "atq":  16600,
+    "def":  16600,
+    "price": 9245,
+    "code": "5F2s4W"
+  }
 ]
 }
