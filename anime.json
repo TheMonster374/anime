@@ -1016,6 +1016,19 @@
     "def":  13900,
     "price": 4717,
     "code": "3Dgp3J"
+  },
+   {
+    "index": 80,
+    "url": "https://telegra.ph/file/d26773008942aadaae74c.jpg",
+    "name": "Kureo Mado",
+    "desp": "Tokyo Ghoul",
+    "info": "Kureo Mado (真戸 呉緒, Mado Kureo?) fue un Investigador Ghoul de Primera Clase, el Mentor y el primer compañero de Koutarou Amon. También es un fanático de los Quinques.",
+     "class": "Sagrado",
+    "type": "Fantasía, Anime, Fantasía oscura, Suspenso",
+    "atq":  16500,
+    "def":  16600,
+    "price": 7518,
+    "code": "5T4p3J"
   }
 ]
 }
