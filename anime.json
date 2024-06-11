@@ -924,7 +924,7 @@
     "def":  2800,
     "price": 223,
     "code": "4ek4fb"
-  }
+  },
     {
     "index": 73,
     "url": "https://telegra.ph/file/ed67074cf2b736148101b.jpg",
@@ -1002,6 +1002,20 @@
     "def":  13800,
     "price": 5717,
     "code": "9Ugp3J"
+  },
+  {
+    "index": 79,
+    "url": "https://telegra.ph/file/586fa316bbd37b826bae3.jpg",
+    "name": "Nishio Nishiki",
+    "desp": "Tokyo Ghoul",
+    "info": "Nishiki Nishio (西尾 錦にしお にしき, Nishio Nishiki?) es un Ghoul cuya zona original de alimentación fue tomada por Rize. Él es un estudiante de Segundo Año en el Departamento Farmacéutico de la Universidad Kamii. Él es el novio de Kimi Nishino. Fue gravemente herido en una pelea con Kaneki, pero finalmente se convirtió en un camarero en Anteiku y aliado a Ken Kaneki."
+    "class": "Legendario",
+    "type": "Fantasía, Anime, Fantasía oscura, Suspenso",
+    "atq":  13800,
+    "def":  13900,
+    "price": 4717,
+    "code": "3Dgp3J"
   }
+  
 ]
 }
