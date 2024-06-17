@@ -1171,6 +1171,32 @@
             "def": 6000,
             "price": 631,
             "code": "R7O9T"
+        },
+        {
+            "index": 92,
+            "url": "https://telegra.ph/file/2950faea6c483381b47ae.jpg",
+            "name": "Hatsune Miku",
+            "desp": "Vocaloid",
+            "info": "Miku Hatsune conocida mayormente como Hatsune Miku o simplemente Miku, es una cantante virtual para el sintonizador desarrollado por Yamaha, VOCALOID2, VOCALOID3 y VOCALOID4, así como para el programa desarrollado por Crypton Future Media, Piapro Studio.",
+            "class": "Sagrado",
+            "atq":  19300,
+            "def":  19300,
+            "type": "Vocaloid, Música, Anime, Fantasía",
+            "price": 9239,
+            "code": "7Dl18V"
+        },
+    {
+            "index": 92,
+            "url": "https://telegra.ph/file/7758684294706ae847f68.jpg",
+            "name": "Kagamine Rin y Len",
+            "desp": "Vocaloid",
+            "info": "Rin Len Kagamine son dos bancos de voz para el programa VOCALOID2 y VOCALOID4. Desarrollados por Crypton Future Media con la voz de la seiyuu: Asami Shimoda, para la segunda versión del programa de sintetización de voz VOCALOID lanzados al mercado el 27 de diciembre de 2007.",
+            "class": "Sagrado",
+            "atq":  19300,
+            "def":  19300,
+            "type": "Vocaloid, Música, Anime, Fantasía",
+            "price": 9129,
+            "code": "5Dl18V"
         }
     ]
 }
