@@ -114,7 +114,7 @@
     "atq":  8400,
     "def":  8200,
     "type": "Anime, Misterio, Psicológico, Sobrenatural, Thriller, Crimen, Drama, Ídolo",
-    "price": 808,
+    "price": 2808,
     "code": "3i<M5z"
   },
   {
@@ -264,7 +264,7 @@
     "index": 21,
     "url": "https://telegra.ph/file/d840af4a179405cd456c8.jpg",
     "name": "Inabakumori",
-    "desp": "vocaloid",
+    "desp": "Vocaloid",
     "info": "inabakumori (稲葉曇), también estilizado como INABAKUMORI, es un productor de VOCALOID que utiliza principalmente a Kaai Yuki.",
     "class": "Sagrado",
     "atq":  15000,
@@ -1093,6 +1093,84 @@
             "def": 16600,
             "price": 9245,
             "code": "5F2s4W"
+        },
+    {
+            "index": 86,
+            "url": "https://telegra.ph/file/ade87e17946df759ee0f1.jpg",
+            "name": "Ruby Hoshino",
+            "desp": "Oshi no Ko",
+            "info": "Ruby Hoshino (星ほし野の瑠る美び衣い, Hoshino Rubii?)es la deuteragonista y uno de los personajes principales de Oshi no Ko. Ella es la segunda hija de la carismática Idol Ai Hoshino, al igual que su hermano Aqua. Además, ella tiene memorias de su vida pasada, cuando era conocida como Sarina Tendouji, una chica que sufría de una enfermedad terminal, que era cuidada por Goro Amemiya. Ruby en su anterior vida gran fan de Ai, y ya conocía a Aqua en su vida pasada, solo que ambos no lo saben.",
+            "class": "Épico",
+            "type": "Fantasía, Anime, , Misterio, Musical, Drama, Ficcion",
+            "atq": 10100,
+            "def": 10200,
+            "price": 2045,
+            "code": "S2O9q"
+        },
+   {
+            "index": 87,
+            "url": "https://telegra.ph/file/4e01db863a3142aaccc9b.jpg",
+            "name": "Ai Hoshino",
+            "desp": "Oshi no Ko",
+            "info": "Ai Hoshino (星ほし野のアイ, Hoshino Ai?) Es un personaje principal del manga Oshi No Ko. Ella era la Idol principal del grupo B-Komachi. Antes de su trabajo como Idol, ella era una chica abandonada en un orfanato, que no tenía profesionalismo y no trataba de encajar. Con la ayuda de Masaya Kaburagi, pudo ingresar a la Compañía Teatral Lala Lai donde conocería al padre de sus hijos, y a través de Ichigo Saitou, el antiguo presidente de Strawberry Productions, se convirtió en una Idol para B-Komachi.",
+            "class": "Sagrado",
+            "type": "Fantasía, Anime, , Misterio, Musical, Drama, Ficcion, Idol",
+            "atq": 16700,
+            "def": 16800,
+            "price": 9051,
+            "code": "S7O9q"
+        },
+    {
+            "index": 88,
+            "url": "https://telegra.ph/file/858691e2f9ff3ad63f326.jpg",
+            "name": "Aquamarine Hoshino",
+            "desp": "Oshi no Ko",
+            "info": "Aquamarine Hoshino (星ほし野の 愛あ久く愛あ海まりん, Hoshino Akuamarin?), o más comúnmente conocido simplemente como Aqua (アクア, Akua?), es el protagonista masculino y uno de los personajes principales de Oshi no Ko . En su vida anterior, era conocido como Gorou Amemiya, un médico especializado en obstetricia y ginecología quien fue asesinado por un acosador de uno de sus pacientes, Ai Hoshino, causando que él se reencarnara como su hijo.",
+            "class": "Épico",
+            "type": "Fantasía, Anime, , Misterio, Musical, Drama, Ficcion",
+            "atq": 10300,
+            "def": 10400,
+            "price": 3951,
+            "code": "S7O9I"
+        },
+    {
+            "index": 89,
+            "url": "https://telegra.ph/file/8011ba40d87a440d3819b.jpg",
+            "name": "Kana Arima",
+            "desp": "Oshi no Ko",
+            "info": "Kana Arima (有馬ありま かな, Arima Kana?) es uno de los personajes principales de Oshi no Ko. Kana fue una niña prodigio y actriz. Es amiga de Aquamarine Hoshino y Ruby Hoshino, y fue la Idol principal de la revivida B-Komachi. Antes de esto, ella solía ser una figura reconocida dentro de la industria del entretenimiento, una que siempre se robaba las miradas de los espectadores del show con su talento. Sin embargo, Comenzó a conseguir menos trabajos y su destino finalmente se selló a medida que crecía.",
+            "class": "Épico",
+            "type": "Fantasía, Anime, , Misterio, Musical, Drama, Ficcion, Idol",
+            "atq": 10500,
+            "def": 10500,
+            "price": 2251,
+            "code": "Z7O9I"
+        },
+    {
+            "index": 90,
+            "url": "https://telegra.ph/file/9c5a9af96a0e48c04e975.jpg",
+            "name": "Akane Kurokawa",
+            "desp": "Oshi no Ko",
+            "info": "Akane Kurokawa (黒くろ川かわ あかね, Kurokawa Akane?) es un importante personaje secundario en la serie de manga Oshi no Ko. Es una excelente actriz de método, capaz de interpretar personalidades hasta el extremo, con conexiones con la Compañía Teatral Lala Lai.",
+            "class": "Raro",
+            "type": "Fantasía, Anime, , Misterio, Musical, Drama, Ficcion",
+            "atq": 5800,
+            "def": 5900,
+            "price": 751,
+            "code": "Z7O9T"
+        },
+    {
+            "index": 91,
+            "url": "https://telegra.ph/file/a8d9505bf111154a4eede.jpg",
+            "name": "Mem-Cho",
+            "desp": "Oshi no Ko",
+            "info": "Mem-Cho (MEMめむちょ, Memu-cho?) es una youtuber que apareció en el Reality Show "LoveNow". Ella es una Vtuber en el canal oficial del anime de Oshi No Ko. Era una chica que quería ser Idol desde una edad muy temprana, pero debido a su situación familiar hizo sacrificios que terminaron en ser muy mayor para ser una. Sin embargo, a pesar de que ella pensaba que no podía ser una Idol a los 25 años, una puerta se abrió y luego del Reality Show, Aqua la invitó al nuevo B-Komachi y se unió.",
+            "class": "Raro",
+            "type": "Fantasía, Anime, , Misterio, Musical, Drama, Ficcion, Vtuber",
+            "atq": 6000,
+            "def": 6000,
+            "price": 631,
+            "code": "R7O9T"
         }
     ]
 }
