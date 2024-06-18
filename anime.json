@@ -1178,25 +1178,64 @@
             "name": "Hatsune Miku",
             "desp": "Vocaloid",
             "info": "Miku Hatsune conocida mayormente como Hatsune Miku o simplemente Miku, es una cantante virtual para el sintonizador desarrollado por Yamaha, VOCALOID2, VOCALOID3 y VOCALOID4, así como para el programa desarrollado por Crypton Future Media, Piapro Studio.",
-            "class": "Sagrado",
+            "class": "Supremo",
             "atq":  19300,
             "def":  19300,
             "type": "Vocaloid, Música, Anime, Fantasía",
-            "price": 9239,
+            "price": 18259,
             "code": "7Dl18V"
         },
-    {
-            "index": 92,
+        {
+            "index": 93,
             "url": "https://telegra.ph/file/7758684294706ae847f68.jpg",
             "name": "Kagamine Rin y Len",
             "desp": "Vocaloid",
             "info": "Rin Len Kagamine son dos bancos de voz para el programa VOCALOID2 y VOCALOID4. Desarrollados por Crypton Future Media con la voz de la seiyuu: Asami Shimoda, para la segunda versión del programa de sintetización de voz VOCALOID lanzados al mercado el 27 de diciembre de 2007.",
             "class": "Sagrado",
-            "atq":  19300,
-            "def":  19300,
+            "atq":  16800,
+            "def":  16900,
             "type": "Vocaloid, Música, Anime, Fantasía",
-            "price": 9129,
+            "price": 9122,
             "code": "5Dl18V"
+        },
+    {
+            "index": 94,
+            "url": "https://telegra.ph/file/59362cb042491cd1075fb.jpg",
+            "name": "GeoXor",
+            "desp": "Vocaloid",
+            "info": "GeoXor es un productor y compositor de música electrónica chileno. Su estilo musical se caracteriza por fusionar elementos de varios géneros como el EDM, el Future Bass y el Trap, creando un sonido único y distintivo. GeoXor ha ganado popularidad en la comunidad de música electrónica en línea, especialmente en plataformas como SoundCloud y YouTube, donde sus pistas han recibido millones de reproducciones.",
+            "class": "Sagrado",
+            "atq":  17000,
+            "def":  17000,
+            "type": "Vocaloid, Música, Anime, Fantasía",
+            "price": 9195,
+            "code": "5FlY8V"
+        },
+    {
+            "index": 95,
+            "url": "https://telegra.ph/file/785c9b40740e219dc94ab.jpg",
+            "name": "Ado",
+            "desp": "Vocaloid",
+            "info": "Ado (nacida el 24 de octubre de 2002) es el seudónimo de una cantante japonesa. En 2020, con tan solo 17 años, Ado debutó tempranamente con el sencillo digital titulado 'Usseewa'. La canción pronto alcanzó el puesto número 1 en el Billboard Japan Hot 100, DO Oricon Digital Singles Chart y Oricon Streaming Chart. El video musical de la canción en su canal de YouTube alcanzó los 100 millones de reproducciones tan solo 148 días después de su lanzamiento.",
+            "class": "Supremo",
+            "atq":  19400,
+            "def":  19400,
+            "type": "Vocaloid, Música, Anime, Fantasía",
+            "price": 18452,
+            "code": "5FGY8V"
+        },
+    {
+            "index": 96,
+            "url": "https://telegra.ph/file/6ddf3e5526761950f65b0.jpg",
+            "name": "Futakuchi Mana",
+            "desp": "Vocaloid",
+            "info": "Futakuchi Mana (二口魔草) es una cantante virtual futakuchi-onna (二口女, literalmente 'mujer de dos bocas'). El canal de YouTube de Mana se creó el 6 de diciembre de 2020, su cuenta de Twitter se creó el mismo mes. El 4 de enero de 2021, Mana subió su primer vídeo al canal, una versión de  'Megitsune'  de Babymetal, que fue su primera versión en solitario como VSinger. El 7 de febrero de 2021 anunció su fecha de debut. El 14 de febrero de 2021 debutó Mana.",
+            "class": "Raro",
+            "atq":  6100,
+            "def":  6100,
+            "type": "Vocaloid, Música, Anime, Fantasía",
+            "price": 654,
+            "code": "5FGY9B"
         }
     ]
 }
