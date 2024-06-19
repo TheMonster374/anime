@@ -178,7 +178,7 @@
     "class": "Transcendental",
     "atq":  21000,
     "def":  21200,
-    "type": "Manga, Anime, Acción, Sobrenatural, Fantasía, Artes Marciales, Maestro, Poder",
+    "type": "Manga, Anime, Acción, Sobrenatural, Fantasía, Artes , Maestro, Poder",
     "price": 215378,
     "code": "7Xl4%A"
   },
@@ -204,7 +204,7 @@
     "class": "Supremo",
     "atq":  18000,
     "def":  18200,
-    "type": "Manga, Anime, Aventura, Piratas, Artes Marciales, Acción, Comedia",
+    "type": "Manga, Anime, Aventura, Piratas, Artes marciales, Acción, Comedia",
     "price": 19256,
     "code": "s3l0p<"
   },
@@ -243,7 +243,7 @@
     "class": "Legendario",
     "atq":  12500,
     "def":  12400,
-    "type": "Anime, Acción, Aventura, Ciencia Ficción, Fantasía, Artes Marciales, Universos Paralelos",
+    "type": "Anime, Acción, Aventura, Ciencia Ficción, Fantasía, Artes marciales, Universos Paralelos",
     "price": 2178,
     "code": "TA08*p"
   },
