@@ -1327,6 +1327,84 @@
             "type": "Manga, Anime, Acción, Fantasía, Artes marciales, Demonios, Sangriento",
             "price": 627,
             "code": "D4OPK4"
+        },
+    {
+            "index": 104,
+            "url": "https://telegra.ph/file/a4cd917be1312fa828589.jpg",
+            "name": "Yusa",
+            "desp": "Dropkick On My Devil",
+            "info": "Yusa (遊佐Yusa ? ) es un demonio de hielo y la hermana mayor de Kōji . Trabaja como fabricante de helados y conos de nieve",
+            "class": "Raro",
+            "atq":  6100,
+            "def":  6100,
+            "type": "Manga, Anime, Acción, Fantasía, Artes marciales, Demonios, Sangriento",
+            "price": 627,
+            "code": "D4OPK6"
+        },
+    {
+            "index": 105,
+            "url": "https://telegra.ph/file/ea4a8112eb2ef50876ca0.jpg",
+            "name": "Koji",
+            "desp": "Dropkick On My Devil",
+            "info": "Kori-chan (氷ちゃんKoorichan ? ), a veces también llamada Kōji (浩二Kōji ? ) , es una joven demonio de hielo hermana menor de Yusa.",
+            "class": "Común",
+            "atq":  1250,
+            "def":  1250,
+            "type": "Manga, Anime, Acción, Fantasía, Artes marciales, Demonios, Sangriento",
+            "price": 250,
+            "code": "D4OPK6"
+        },
+    {
+            "index": 106,
+            "url": "https://telegra.ph/file/309ee6c750fcd2da9b0bf.jpg",
+            "name": "Beth",
+            "desp": "Dropkick On My Devil",
+            "info": "Beth (ベート? ) es una Bestia de Gévaudan que Yurine tiene como mascota fuera de su apartamento.",
+            "class": "Común",
+            "atq":  1050,
+            "def":  1350,
+            "type": "Manga, Anime, Acción, Fantasía, Artes marciales, Demonios, Sangriento",
+            "price": 260,
+            "code": "D4OPK7"
+        },
+    {
+            "index": 107,
+            "url": "https://telegra.ph/file/34a9bd5f256da2f5ce978.jpg",
+            "name": "Ran-Ran",
+            "desp": "Dropkick On My Devil",
+            "info": "Ran-Ran es la hermana gemela mayor de Kyon-Kyon . Ella es una Jiangshi del infierno de China. Ella fue maldecida por una maldición de panda y se convirtió en un pequeño juguete de panda. Ella cabalga dentro del vestido de Kyon-Kyon.",
+            "class": "Común",
+            "atq":  1200,
+            "def":  1100,
+            "type": "Manga, Anime, Acción, Fantasía, Artes marciales, Demonios, Sangriento",
+            "price": 263,
+            "code": "D4OPK8"
+        },
+    {
+            "index": 108,
+            "url": "https://telegra.ph/file/68cd9e8269c2e112f35e2.jpg",
+            "name": "Kyon-Kyon",
+            "desp": "Dropkick On My Devil",
+            "info": "Kyon-Kyon es un Jiangshi de alto rango de la China del Infierno. Ella quería volverse como un ser humano. Ella es la hermana gemela menor de Ran-Ran .",
+            "class": "Raro",
+            "atq":  6200,
+            "def":  6200,
+            "type": "Manga, Anime, Acción, Fantasía, Artes marciales, Demonios, Sangriento",
+            "price": 563,
+            "code": "D4OPK9"
+        },
+    {
+            "index": 109,
+            "url": "https://telegra.ph/file/acff8af8fc7d7635b72e5.jpg",
+            "name": "Pekora",
+            "desp": "Dropkick On My Devil",
+            "info": "Pekora (ペコラ? ) es un arcángel que perdió su halo y quedó varado en la Tierra. Incapaz de encontrar su lugar en el reino de los mortales y considerada una traidora por el Cielo por haber recibido caridad del resto del conjunto de personajes, en su mayoría demoníacos, se ha visto reducida a una calle sin hogar y apenas se las arregla a través de trabajos de medio tiempo y la amabilidad ocasional de otros.",
+            "class": "Común",
+            "atq":  1300,
+            "def":  1000,
+            "type": "Manga, Anime, Acción, Fantasía, Artes marciales, Angeles, Sangriento",
+            "price": 163,
+            "code": "D4OPK0"
         }
     ]
 }
