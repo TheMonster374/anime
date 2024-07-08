@@ -1412,12 +1412,64 @@
             "name": "Vegeta",
             "desp": "Dragon Ball Super",
             "info": "Es el hijo mayor del rey Vegeta III, así como el príncipe más reciente de la familia real saiyana y uno de los pocos supervivientes tras el genocidio saiyano del planeta Vegeta del Universo 7, a manos de Freeza. Es el eterno rival de Son Goku, hermano mayor de Tarble, el esposo de Bulma, padre de Trunks y Bra y ancestro de Vegeta Jr.",
-            "price": 2500,
-            "class": "Épico",
-            "atq":  8000,
-            "def":  8200,
+            "price": 18200,
+            "class": "Supremo",
+            "atq":  19500,
+            "def":  19600,
             "type": "Anime, Manga, Acción, Fantasía, Artes marciales, Poder",
-            "code": "95iYY%"
+            "code": "95iYYP"
+          },
+    {
+            "index": 111,
+            "url": "https://telegra.ph/file/913f5b75a5410ace45a07.jpg",
+            "name": "Son Gohan",
+            "desp": "Dragon Ball Super",
+            "info": "Son Gohan (孫そん悟ご飯はん Son Gohan¿?), Son Gohanda[29] en su tiempo en España, o simplemente Gohan en Hispanoamérica, es uno de los personajes principales de los arcos argumentales de Dragon Ball Z, Dragon Ball Super y Dragon Ball GT. Es un mestizo entre saiyano y humano terrícola. Es el primer hijo de Son Goku y Chi-Chi, hermano mayor de Son Goten, esposo de Videl y padre de Pan.",
+            "price": 8200,
+            "class": "Sagrado",
+            "atq":  17100,
+            "def":  17200,
+            "type": "Anime, Manga, Acción, Fantasía, Artes marciales, Poder",
+            "code": "95iYUP"
+          },
+    {
+            "index": 112,
+            "url": "https://telegra.ph/file/f0f454d87ac06583e35cf.jpg",
+            "name": "Trunks",
+            "desp": "Dragon Ball Super",
+            "info": "Trunks (トランクス Torankusu¿?) es un mestizo entre humano terrícola y Saiyano nacido en la Tierra, e hijo de Bulma y Vegeta, el cual es introducido en el Arco de los Androides y Cell. Más tarde en su vida como joven, se termina convirtiendo en un luchador de artes marciales, el mejor amigo de Son Goten y en el hermano mayor de su hermana Bra",
+            "price": 8200,
+            "class": "Sagrado",
+            "atq":  17300,
+            "def":  17400,
+            "type": "Anime, Manga, Acción, Fantasía, Artes marciales, Poder",
+            "code": "95i5UP"
+          },
+    {
+            "index": 113,
+            "url": "https://telegra.ph/file/ea82c46429cad0200f264.jpg",
+            "name": "Son Goten",
+            "desp": "Dragon Ball Super",
+            "info": "Son Goten (孫そん悟ご天てん Son Goten¿?) es el segundo hijo de Chi-Chi y Son Goku, y hermano menor de Son Gohan, que nació al poco tiempo de la segunda muerte de su padre.",
+            "price": 200,
+            "class": "Común",
+            "atq":  1250,
+            "def":  1250,
+            "type": "Anime, Manga, Acción, Fantasía, Artes marciales, Poder",
+            "code": "76i5UP"
+          },
+      {
+            "index": 114,
+            "url": "https://telegra.ph/file/ea82c46429cad0200f264.jpg",
+            "name": "Tanjiro Kamado",
+            "desp": "Kimetsu no Yaiba",
+            "info": "Tanjiro Kamado (竈門かまど 炭たん治じ郎ろう, Kamado Tanjirō?) es el protagonista principal de Kimetsu no Yaiba. Es un cazador de Demonios cuyo principal objetivo es encontrar al responsable de haber matado a su familia y convertido a su hermana Nezuko en una Demonio[5] y luego juró derrotar a Muzan Kibutsuji, el Rey de los Demonios, para evitar que otros sufran el mismo destino que él.",
+            "price": 200,
+            "class": "Común",
+            "atq":  1250,
+            "def":  1250,
+            "type": "Anime, Manga, Acción, Fantasía, Artes marciales, Poder",
+            "code": "76i5UP"
           }
     ]
 }
