@@ -1405,6 +1405,19 @@
             "type": "Manga, Anime, Acción, Fantasía, Artes marciales, Angeles, Sangriento",
             "price": 163,
             "code": "D4OPK0"
-        }
+        },
+          {
+            "index": 110,
+            "url": "https://telegra.ph/file/88deb4a45cab2dce56e50.jpg",
+            "name": "Vegeta",
+            "desp": "Dragon Ball Super",
+            "info": "Es el hijo mayor del rey Vegeta III, así como el príncipe más reciente de la familia real saiyana y uno de los pocos supervivientes tras el genocidio saiyano del planeta Vegeta del Universo 7, a manos de Freeza. Es el eterno rival de Son Goku, hermano mayor de Tarble, el esposo de Bulma, padre de Trunks y Bra y ancestro de Vegeta Jr.",
+            "price": 2500,
+            "class": "Épico",
+            "atq":  8000,
+            "def":  8200,
+            "type": "Anime, Manga, Acción, Fantasía, Artes marciales, Poder",
+            "code": "95iYY%"
+          }
     ]
 }
